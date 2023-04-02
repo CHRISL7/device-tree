@@ -47,6 +47,7 @@
 - git clone git@github.com:CHRISL7/proprietary_vendor_xiaomi_fog.git vendor/xiaomi/fog
 - git clone git@gitlab.pixelexperience.org:android/vendor-blobs/vendor_xiaomi_sm6225-common.git vendor/xiaomi/sm6225-common
 - git clone https://github.com/PixelExperience/hardware_xiaomi hardware/xiaomi
+- git clone https://github.com/PixelExperience/packages_resources_devicesettings.git packages/resources/devicesettings
 
 ### spes device tree dependencies:
 - git clone git@github.com:PixelExperience-Devices/device_xiaomi_spes.git device/xiaomi/spes
@@ -56,9 +57,11 @@
 - git clone git@gitlab.pixelexperience.org:android/vendor-blobs/vendor_xiaomi_spes.git vendor/xiaomi/spes
 - git clone git@gitlab.pixelexperience.org:android/vendor-blobs/vendor_xiaomi_sm6225-common.git vendor/xiaomi/sm6225-common
 - git clone https://github.com/PixelExperience/hardware_xiaomi hardware/xiaomi
+- git clone https://github.com/PixelExperience/packages_resources_devicesettings.git packages/resources/devicesettings
 
 ### surya device tree dependencies:
 - git clone git@github.com:PixelExperience-Devices/device_xiaomi_ssurya.git device/xiaomi/surya
 - git clone git@github.com:PixelExperience-Devices/kernel_xiaomi_surya.git kernel/xiaomi/surya
 - git clone git@gitlab.pixelexperience.org:android/vendor-blobs/vendor_xiaomi_surya.git vendor/xiaomi/surya
 - git clone https://github.com/PixelExperience/hardware_xiaomi hardware/xiaomi
+- git clone https://github.com/PixelExperience/packages_resources_devicesettings.git packages/resources/devicesettings
