@@ -51,7 +51,7 @@
 
 ### spes device tree dependencies:
 - git clone git@github.com:PixelExperience-Devices/device_xiaomi_spes.git device/xiaomi/spes
-- git clone git@github.com:PixelExperience-Devices/device_xiaomi_spes-kernel.git/device/xiaomi/spes-kernel
+- git clone git@github.com:PixelExperience-Devices/device_xiaomi_spes-kernel.git device/xiaomi/spes-kernel
 - git clone git@github.com:PixelExperience-Devices/device_xiaomi_sm6225-common.git device/xiaomi/sm6225-common
 - git clone git@github.com:PixelExperience-Devices/kernel_xiaomi_sm6225.git kernel/xiaomi/sm6225
 - git clone git@gitlab.pixelexperience.org:android/vendor-blobs/vendor_xiaomi_spes.git vendor/xiaomi/spes
