@@ -60,7 +60,7 @@
 - git clone https://github.com/PixelExperience/packages_resources_devicesettings.git packages/resources/devicesettings
 
 ### surya device tree dependencies:
-- git clone git@github.com:PixelExperience-Devices/device_xiaomi_ssurya.git device/xiaomi/surya
+- git clone git@github.com:PixelExperience-Devices/device_xiaomi_surya.git device/xiaomi/surya
 - git clone git@github.com:PixelExperience-Devices/kernel_xiaomi_surya.git kernel/xiaomi/surya
 - git clone git@gitlab.pixelexperience.org:android/vendor-blobs/vendor_xiaomi_surya.git vendor/xiaomi/surya
 - git clone https://github.com/PixelExperience/hardware_xiaomi hardware/xiaomi
