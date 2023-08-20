@@ -71,4 +71,12 @@
 - https://github.com/PixelExperience-Devices/device_qcom_common-sepolicy/commit/4ae0e346edb8c1525d3d86bc07bcedb312fbf74c
 - https://github.com/PixelExperience-Devices/device_qcom_common/commit/3802e110b09081fc259af9438096801e8c39cd4b
 
+### MiuiCamera tree dependencies for sm6225 devices:
+- git clone https://github.com/PixelExperience-Devices/device_xiaomi_sm6225-common-miuicamera.git device/xiaomi/sm6225-common-miuicamera
+- git clone https://gitlab.pixelexperience.org/android/vendor-blobs/vendor_xiaomi_sm6225-common-miuicamera.git vendor/xiaomi/sm6225-common-miuicamera
+
+### MiuiCamera source commit dependencies
+- Some roms do not have Miui camera support, so you have to pick these commits, see these topic here:
+- https://github.com/SuperiorOS/android_frameworks_base/pull/66/commits
+- https://github.com/SuperiorOS/android_frameworks_av/pull/13/commits
 
